@@ -1,0 +1,8 @@
+﻿article p:first-child {
+	font-size: 120%;
+}
+
+button:hover {
+	size: 120%;
+	color: blue;
+}
